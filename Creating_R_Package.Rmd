@@ -43,4 +43,10 @@ use_mit_license("Hollie Rawlings")
 
 ```{r}
 document()
+?fbind
+```
+##Check again please! 
+```{r}
+check()
+
 ```
