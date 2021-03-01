@@ -50,3 +50,7 @@ document()
 check()
 
 ```
+##Installing 
+```{r}
+install()
+```
