@@ -35,3 +35,8 @@ load_all()
 ```{r}
 check()
 ```
+
+```{r}
+use_mit_license("Hollie Rawlings")
+
+```
