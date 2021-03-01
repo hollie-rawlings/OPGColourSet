@@ -72,4 +72,7 @@ document() ##updating documentation
 ##Adding a readme
 ```{r}
 use_readme_rmd()
+build_readme() ##build readme
+check()
+install()
 ```
