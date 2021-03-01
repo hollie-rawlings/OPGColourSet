@@ -69,3 +69,7 @@ fcount(iris$Species)
 
 document() ##updating documentation 
 ```
+##Adding a readme
+```{r}
+use_readme_rmd()
+```
