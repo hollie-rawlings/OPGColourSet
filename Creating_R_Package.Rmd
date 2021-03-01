@@ -1,0 +1,25 @@
+---
+title: "Creating R package"
+author: "Hollie Rawlings"
+date: "01/03/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(devtools)
+##checking version dev tools
+packageVersion("devtools")
+library(tidyverse)
+library(fs)
+```
+
+```{r}
+
+create_package("C:/Users/hollie.rawlings/Documents/Development/Package/OPGColourSet")
+
+```
+
+```{r}
+use_git("C:/Users/hollie.rawlings/Documents/Development/Package/OPGColourSet")
+```
