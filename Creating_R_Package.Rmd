@@ -23,3 +23,11 @@ create_package("C:/Users/hollie.rawlings/Documents/Development/Package/OPGColour
 ```{r}
 use_git("C:/Users/hollie.rawlings/Documents/Development/Package/OPGColourSet")
 ```
+
+```{r}
+use_r("fbind")
+```
+
+```{r}
+load_all()
+```
