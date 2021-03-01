@@ -54,3 +54,18 @@ check()
 ```{r}
 install()
 ```
+```{r}
+use_testthat()
+use_test("fbind")
+```
+##Writing second package
+```{r}
+use_package("forcats")
+use_r("fcount")  ##writes another function
+use_test("fcount")  ##writes another test
+
+load_all()
+fcount(iris$Species)
+
+document() ##updating documentation 
+```
