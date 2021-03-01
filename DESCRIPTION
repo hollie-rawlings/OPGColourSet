@@ -5,7 +5,7 @@ Authors@R:
     person(given = "Hollie",
            family = "Rawlings",
            role = c("aut", "cre"),
-           email = "hollie.rawlings@pharamgenesis.com"))
+           email = "hollie.rawlings@pharamgenesis.com")
 Description: Helper for standard colours based on OPG branding.
 License: MIT + file LICENSE
 Encoding: UTF-8

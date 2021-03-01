@@ -40,3 +40,7 @@ check()
 use_mit_license("Hollie Rawlings")
 
 ```
+
+```{r}
+document()
+```
